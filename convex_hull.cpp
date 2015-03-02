@@ -1,3 +1,9 @@
+/**
+ Computes the convex hull around a bunch of 2D points using the Jarvis's March technique of gift wrapping the points
+ 
+ @author Tarek El-Gaaly
+ */
+
 #include <iostream>
 #include <vector>
 #include <math.h>
